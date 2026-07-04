@@ -1,0 +1,6 @@
+{
+  "name": "Gestion de Colis Abidjan",
+  "description": "Application de gestion de colis pour entreprise d'import-export à Abidjan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
